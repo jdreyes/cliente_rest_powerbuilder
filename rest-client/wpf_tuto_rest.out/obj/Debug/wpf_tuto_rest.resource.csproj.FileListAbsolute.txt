@@ -1,0 +1,5 @@
+C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpf_tuto_rest.out\bin\Debug\wpf_tuto_rest.resource.dll
+C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpf_tuto_rest.out\bin\Debug\wpf_tuto_rest.resource.pdb
+C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpf_tuto_rest.out\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpf_tuto_rest.out\obj\Debug\wpf_tuto_rest.resource.dll
+C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpf_tuto_rest.out\obj\Debug\wpf_tuto_rest.resource.pdb

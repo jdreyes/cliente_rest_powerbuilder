@@ -1,0 +1,39 @@
+			PBCompiler Report: 23/01/2014 12:42:25
+
+Argument List for Sybase.PowerBuilder.Compiler:
+	/t:wpf
+	/pbt:"C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpf_tuto_rest.pbtx"
+	/a:wpf_tuto_rest
+	/o:"C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpf_tuto_rest.out"
+	/debug:+
+	/debugsymbol:+
+	/NoUFWarn:-
+	/platform:x86
+	/oname:wpf_tuto_rest
+	/resdll:wpf_tuto_rest.resource
+	/rebuild:incremental
+	/rebuildapp:-
+	/r:"C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\google_rest_client_directions.dll";"C:\WINDOWS\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll";"C:\Archivos de programa\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\ReachFramework.dll";"C:\Archivos de programa\Sybase\PowerBuilder 12.5\\DotNET\bin\Sybase.PowerBuilder.WCF.Runtime.dll";"C:\Archivos de programa\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xaml.dll"
+
+IPBCompiler.Report() output:
+Type-checking (pass 1) system (system)
+Pre-parsing takes 2,00 seconds
+Parsing c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpf_tuto_rest.pbl\wpf_tuto_rest.pblx (w_restClient)
+Parsing takes 0,00 seconds
+Type-checking (pass 1)  (wpf_tuto_rest)
+Type-checking (pass 1) c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpf_tuto_rest.pbl\wpf_tuto_rest.pblx (w_restClient)
+Type-checking (pass 1) c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpf_tuto_rest.pbl\wpf_tuto_rest.pblx (w_restClient)
+Type-checking (pass 1) c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpf_tuto_rest.pbl\wpf_tuto_rest.pblx (w_restClient)
+Type-checking prototypes/instance variables(pass 2) 
+Type-checking prototypes/instance variables(pass 2) 
+Type-checking methods(pass 2) c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpf_tuto_rest.pbl\wpf_tuto_rest.pblx (w_restClient)
+Type-checking (pass 1)  (directionstutoservice.directionstutoproxy)
+Type-checking prototypes/instance variables(pass 2) 
+Type-checking (pass 1)  (pbglobaldefinitions_wpf_tuto_rest)
+Type-checking prototypes/instance variables(pass 2) 
+Typechecking takes 0,00 seconds
+Emitting c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpf_tuto_rest.pbl\wpf_tuto_rest.pblx (w_restClient)
+Emitting c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpf_tuto_rest.pbl\wpf_tuto_rest.pblx (w_restClient)
+Emiting takes 0,00 seconds
+DotNetImporter::loadGroupInfoXMLFile() duplicate group wpf_tuto_rest_w_restclient_w error
+

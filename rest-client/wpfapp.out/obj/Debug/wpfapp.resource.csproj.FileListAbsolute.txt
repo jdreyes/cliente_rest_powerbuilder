@@ -1,0 +1,5 @@
+C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpfapp.out\bin\Debug\wpfapp.resource.dll
+C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpfapp.out\bin\Debug\wpfapp.resource.pdb
+C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpfapp.out\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpfapp.out\obj\Debug\wpfapp.resource.dll
+C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpfapp.out\obj\Debug\wpfapp.resource.pdb

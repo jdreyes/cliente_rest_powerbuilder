@@ -1,0 +1,5 @@
+<pbwpf:Window x:Class="w_home" x:ClassModifier="internal" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:pbwpf="clr-namespace:Sybase.PowerBuilder.WPF.Controls;assembly=Sybase.PowerBuilder.WPF.Controls" PBTitle="" PBHeight="2000" PBWidth="2500" MinBox="True" MaxBox="True" TitleBar="True" ControlMenu="True" Center="True" Resizable="True" Uid="57" Height="500" Width="547">
+    <Grid>
+		<pbwpf:CommandButton Height="28" HorizontalAlignment="Left" Margin="184,58,0,0" Name="cb_1" TabOrder="10" Text="GET!" TextSize="-10" VerticalAlignment="Top" Width="88" PBHeight="112" PBWidth="402" X="841" Y="232" />
+	</Grid>
+</pbwpf:Window>

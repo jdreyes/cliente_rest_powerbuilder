@@ -1,0 +1,38 @@
+			PBCompiler Report: 22/01/2014 10:28:12
+
+Argument List for Sybase.PowerBuilder.Compiler:
+	/t:wpf
+	/pbt:"C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpfapp.pbtx"
+	/a:wpfapp
+	/o:"C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client\wpfapp.out"
+	/debug:+
+	/debugsymbol:+
+	/NoUFWarn:-
+	/platform:x86
+	/oname:wpfapp
+	/resdll:wpfapp.resource
+	/r:"C:\Archivos de programa\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\PresentationCore.dll";"C:\Archivos de programa\Sybase\PowerBuilder 12.5\\DotNET\bin\Sybase.PowerBuilder.WCF.Runtime.dll"
+
+IPBCompiler.Report() output:
+Type-checking (pass 1) system (system)
+Pre-parsing takes 2,00 seconds
+Parsing c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (wpfapp)
+Parsing c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (w_home)
+Parsing takes 0,00 seconds
+Type-checking (pass 1) c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (w_home)
+Type-checking (pass 1) c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (wpfapp)
+Type-checking (pass 1) c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (w_home)
+Type-checking (pass 1) c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (wpfapp)
+Type-checking (pass 1) c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (w_home)
+Type-checking (pass 1) c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (wpfapp)
+Type-checking prototypes/instance variables(pass 2) 
+Type-checking prototypes/instance variables(pass 2) 
+Type-checking methods(pass 2) c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (w_home)
+Type-checking methods(pass 2) c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (wpfapp)
+Typechecking takes 0,00 seconds
+Emitting c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (wpfapp)
+Emitting c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (w_home)
+Emitting c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (wpfapp)
+Emitting c:\documents and settings\usuario\mis documentos\workspaces\rest-client\wpfapp.pbl\wpfapp.pblx (w_home)
+Emiting takes 0.00 seconds
+

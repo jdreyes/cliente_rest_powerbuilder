@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project MSBuildVersion="2.0" ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Target Name="ResolveAssemblyReferences" />
+  <PropertyGroup>
+    <Name>wpf_tuto_rest</Name>
+    <SchemaVersion>2</SchemaVersion>
+    <ProjectGuid>{46160aa8-1326-4658-ba35-7be6b3d95e64}</ProjectGuid>
+    <Comment>
+    </Comment>
+    <CreateNewFolder>true</CreateNewFolder>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <Platform>AnyCPU</Platform>
+    <AssemblyName>wpf_tuto_rest</AssemblyName>
+    <RootNamespace>wpf_tuto_rest</RootNamespace>
+    <OutputType>WinExe</OutputType>
+    <TargetType>PBDotNetWPF</TargetType>
+    <ApplicationName>wpf_tuto_rest</ApplicationName>
+    <ApplicationObject>wpf_tuto_rest</ApplicationObject>
+    <ApplicationLibrary>wpf_tuto_rest.pbl\wpf_tuto_rest.pblx</ApplicationLibrary>
+    <PBOriginalVersion>12.5.2</PBOriginalVersion>
+    <ReferencePath>$(DevEnvDir)\DotNET\bin</ReferencePath>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <LibraryList>{b157be37-d10e-45f1-8a6d-679e6b8513ba};{19aa4b02-51f7-4fb8-90c2-65938654af9d}</LibraryList>
+    <PBProjectDefault>{b157be37-d10e-45f1-8a6d-679e6b8513ba},p_wpf_tuto_rest.srj,41Fxx;</PBProjectDefault>
+    <PBProjectsDeploy>{19aa4b02-51f7-4fb8-90c2-65938654af9d},p_restclient.srj,41Gxx;{b157be37-d10e-45f1-8a6d-679e6b8513ba},p_wpf_tuto_rest.srj,41Fxx;</PBProjectsDeploy>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>false</DebugSymbols>
+    <OutputPath>wpf_tuto_rest.out\bin\Release\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>wpf_tuto_rest.out\bin\Debug\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="google_rest_client_directions, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <Name>google_rest_client_directions</Name>
+      <AssemblyName>google_rest_client_directions.dll</AssemblyName>
+      <Private>True</Private>
+      <HintPath>google_rest_client_directions.dll</HintPath>
+    </Reference>
+    <Reference Include="ReachFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <Name>ReachFramework</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sybase.DataWindow.Common, Version=1.5.0.0, Culture=neutral, PublicKeyToken=cc0f66dd9541b3da">
+      <Name>Sybase.DataWindow.Common</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sybase.DataWindow.Core, Version=1.5.0.0, Culture=neutral, PublicKeyToken=cc0f66dd9541b3da">
+      <Name>Sybase.DataWindow.Core</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sybase.DataWindow.Shared, Version=1.5.0.0, Culture=neutral, PublicKeyToken=cc0f66dd9541b3da">
+      <Name>Sybase.DataWindow.Shared</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sybase.DataWindow.Wpf, Version=1.5.0.0, Culture=neutral, PublicKeyToken=cc0f66dd9541b3da">
+      <Name>Sybase.DataWindow.Wpf</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <Name>System.Web</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <Name>System.Windows.Forms</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <Name>System.Xaml</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sybase.PowerBuilder.WPF.Controls, Version=12.5.0.0, Culture=neutral, PublicKeyToken=598c7456a83d557a">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sybase.PowerBuilder.WPF.Controls.Skins, Version=12.5.0.0, Culture=neutral, PublicKeyToken=598c7456a83d557a">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sybase.PowerBuilder.WCF.Runtime, Version=12.5.0.0, Culture=neutral, PublicKeyToken=598c7456a83d557a">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <SubProject Include="l_rest_client.pbl\l_rest_client.pblx">
+      <Name>l_rest_client</Name>
+      <TypeGuid>{1e00f043-675a-11d2-bca5-000086095dda}</TypeGuid>
+      <InstanceGuid>{19aa4b02-51f7-4fb8-90c2-65938654af9d}</InstanceGuid>
+    </SubProject>
+    <SubProject Include="wpf_tuto_rest.pbl\wpf_tuto_rest.pblx">
+      <TypeGuid>{1e00f043-675a-11d2-bca5-000086095dda}</TypeGuid>
+      <Name>wpf_tuto_rest</Name>
+      <InstanceGuid>{b157be37-d10e-45f1-8a6d-679e6b8513ba}</InstanceGuid>
+    </SubProject>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Sybase\PowerBuilder\12.5\PowerBuilder.targets" />
+</Project>

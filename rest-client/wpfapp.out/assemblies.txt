@@ -1,0 +1,2 @@
+c:\archivos de programa\reference assemblies\microsoft\framework\.netframework\v4.0\presentationcore.dll
+c:\archivos de programa\sybase\powerbuilder 12.5\\dotnet\bin\sybase.powerbuilder.wcf.runtime.dll

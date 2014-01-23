@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Sybase PowerBuilder .NET Solution File
+Project("{1E00F042-675A-11D2-BCA5-000086095DDA}") = "wpf_tuto_rest (C:\Documents and Settings\usuario\Mis documentos\workspaces\rest-client)", "wpf_tuto_rest.pbtx", "{46160AA8-1326-4658-BA35-7BE6B3D95E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46160AA8-1326-4658-BA35-7BE6B3D95E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46160AA8-1326-4658-BA35-7BE6B3D95E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B157BE37-D10E-45F1-8A6D-679E6B8513BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B157BE37-D10E-45F1-8A6D-679E6B8513BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AA4B02-51F7-4FB8-90C2-65938654AF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AA4B02-51F7-4FB8-90C2-65938654AF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
